@@ -1,2 +1,2 @@
 # sample_flask
-sample flask + docker web applicatio
+sample flask + docker web application
